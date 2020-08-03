@@ -1,0 +1,129 @@
+body
+{
+  background-image: url("ground10.gif");
+  font-family: 'Courier New', arial;
+}
+
+div#center
+{
+  display: block;
+  margin: 0 auto;
+}
+
+#center img
+{
+  margin: 0px auto;
+  display: block;
+  width: 300px;
+}
+
+#center div
+{
+  display: block;
+  margin: 0px auto;
+}
+
+#center p
+{
+  display: block;
+  margin: 0px auto;
+  color: #FFF;
+  font-size: 12px;
+  font-weight: 100;
+}
+
+ul.nav
+{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.nav li
+{
+  display: inline;
+  color: #00c7cc;
+}
+.nav li a
+{
+  color: #00c7cc;
+}
+.nav li a:hover
+{
+  color: #007c7f;
+}
+
+div#art
+{
+  width: 480px;
+  margin: 0 auto;
+  display: block;
+  color: #2EAFFF;
+  font-weight: 700;
+}
+div#gunrar-art
+{
+  width: 340px;
+  margin: 0 auto;
+  display: block;
+  color: #ADFF2F;
+  font-weight: 700;
+}
+div#crispy-art
+{
+  width: 500px;
+  margin: 0 auto;
+  display: block;
+  color: #ADFF2F;
+  font-weight: 700;
+}
+
+b.green
+{
+  color: #ADFF2F;
+}
+
+b.dark-green
+{
+  color: #060;
+}
+
+b.purple
+{
+  color: #606;
+}
+
+b.pink
+{
+  color: #F0F;
+}
+
+b.small
+{
+  font-size: 14px;
+  font-weight: 100;
+}
+
+b.large
+{
+  font-size: 16px;
+  font-weight: 100;
+}
+
+b.red
+{
+  color: #F00;
+}
+
+b.orange
+{
+  color: #FF9933;
+}
+
+b.cyan
+{
+  color: #0FF;
+}
+b.blu
+{
+  color: #2EAFFF;
+}
